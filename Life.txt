@@ -1,2 +1,3 @@
 protometabolism networks
 replication units
+phospholipid mebrane
